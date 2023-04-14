@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'YunziWang',
   github: 'wangyunzi',
-  wechatPublicName: '王云子',
+  // wechatPublicName: '王云子',
   // wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   notionPublic: 'https://www.notion.so/wangyunzi/Yunzi-Wang-s-Home-4dd6b43e01e34265ac05a97b8da6bc95?pvs=4',
 
@@ -31,7 +31,7 @@ module.exports = {
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
-  // imageCDNHost: 'https://blog.wangyunzi.com',
+  imageCDNHost: '',
 
   // Utteranc.es comments via GitHub issue comments (optional)
   utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
